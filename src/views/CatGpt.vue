@@ -106,7 +106,7 @@ const askCat = async () => {
     switch (youText) {
         case "meow":
         case "meo":
-            mes = "Bắt trước là hành động của kẻ tiểu nhân!"
+            mes = "Bắt chước là hành động của kẻ tiểu nhân!"
             contentArr = mes.split(" ")
             break;
         case "woof":
