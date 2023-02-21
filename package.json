@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/sound": "^2.0.1",
     "element-plus": "^2.2.29",
     "firebase": "^9.17.1",
     "pinia": "^2.0.28",

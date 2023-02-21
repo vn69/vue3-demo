@@ -23,6 +23,14 @@ const router = createRouter({
       },
     },
     {
+      path: "/cat-gpt",
+      name: "cat gpt",
+      component: () => import("../views/CatGpt.vue"),
+      meta: {
+        layout: "default",
+      },
+    },
+    {
       path: "/todo-list",
       name: "todo",
       component: () => import("../views/TodoListView.vue"),
