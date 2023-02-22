@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 <div class="about text-center mt-2 fs-6">
-                    This site was created by <a href="https://www.facebook.com/doan.relife" target="_blank"
+                    This site was created by <a href="https://github.com/vn69" target="_blank"
                         class="text-reset">Đoàn Nguyễn</a>
                 </div>
             </div>
@@ -167,7 +167,8 @@ const askCat = async () => {
 }
 
 .input-box {
-    width: 500px;
+    max-width: 500px;
+    width: 80%;
     margin: auto;
 }
 
